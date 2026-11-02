@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "entries": [
+    {
+      "packVersion": "2026.11.02",
+      "generatedAt": "2026-11-02T10:03:49Z",
+      "zipSha256": "63d7e96e1f797818f3fffefe125a5a4902120a0e5e33cf8cfb589e9063913138",
+      "zipBytes": 1141449,
+      "candidateSha256": "59800458e167ea2d93a093e209ac1f486e0417204e669b6a717dfce31aa28485",
+      "counts": {
+        "python": 8161,
+        "nuget": 5272,
+        "node.js": 8242
+      },
+      "sources": [
+        "Records are derived from the GitHub Advisory Database (https://github.com/advisories), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via OSV (https://osv.dev). Modified: Dependa kept only some records and fields, merged records that share aliases, calculated severity and other values, and removed invisible characters from titles. These are not the original data. No endorsement by GitHub is implied. Provided as is, without warranties.",
+        "Records are derived from the PyPI Advisory Database (https://github.com/pypa/advisory-database), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via OSV (https://osv.dev). Modified: Dependa kept only some records and fields, merged records that share aliases, calculated severity and other values, and removed invisible characters from titles. These are not the original data. No endorsement by the PyPI Advisory Database maintainers is implied. Provided as is, without warranties.",
+        "Records are obtained via OSV (https://osv.dev). OSV lists its data sources and their licenses at https://google.github.io/osv.dev/data/. Modified: Dependa kept only some records and fields, merged records that share aliases, calculated severity and other values, and removed invisible characters from titles. These are not the original data. No endorsement by OSV or the original data providers is implied. Provided as is, without warranties."
+      ],
+      "reviewResult": "first publish (approved candidate placed by the owner)",
+      "reviewRecord": "first publish, approved candidate of run 41425499925",
+      "published": true,
+      "publishedAt": "2026-11-02T22:24:08Z"
+    }
+  ],
+  "maxCountResets": []
+}
