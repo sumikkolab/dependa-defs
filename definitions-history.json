@@ -519,6 +519,89 @@
         "unsafe_text": 0,
         "merged_by_alias": 7070
       }
+    },
+    {
+      "packVersion": "2026.11.14",
+      "generatedAt": "2026-11-14T01:55:30Z",
+      "zipSha256": "2b1dfb25e6209f6dcadb7e626028060f2385abbed8d925e589131d7b51b42a3c",
+      "zipBytes": 1167975,
+      "candidateSha256": "dfb0fe844d266392a0094b480e09f79af835a830056a2f5ae4633cd3010b55ba",
+      "counts": {
+        "python": 8279,
+        "nuget": 5537,
+        "node.js": 8441
+      },
+      "sources": [
+        "Records are derived from the GitHub Advisory Database (https://github.com/advisories), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via OSV (https://osv.dev). Modified: Dependa kept only some records and fields, merged records that share aliases, calculated severity and other values, and removed invisible characters from titles. These are not the original data. No endorsement by GitHub is implied. Provided as is, without warranties.",
+        "Records are derived from the PyPI Advisory Database (https://github.com/pypa/advisory-database), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), via OSV (https://osv.dev). Modified: Dependa kept only some records and fields, merged records that share aliases, calculated severity and other values, and removed invisible characters from titles. These are not the original data. No endorsement by the PyPI Advisory Database maintainers is implied. Provided as is, without warranties.",
+        "Records are obtained via OSV (https://osv.dev). OSV lists its data sources and their licenses at https://google.github.io/osv.dev/data/. Modified: Dependa kept only some records and fields, merged records that share aliases, calculated severity and other values, and removed invisible characters from titles. These are not the original data. No endorsement by OSV or the original data providers is implied. Provided as is, without warranties."
+      ],
+      "reviewResult": "passed",
+      "reviewRecord": "automatic publish gate, run 17",
+      "published": true,
+      "publishedAt": "2026-11-14T01:57:59Z",
+      "gate": {
+        "verdict": "publish",
+        "firstPublish": false,
+        "items": [
+          {
+            "item": "origin",
+            "result": "pass"
+          },
+          {
+            "item": "zipShape",
+            "result": "pass"
+          },
+          {
+            "item": "manifest",
+            "result": "pass"
+          },
+          {
+            "item": "version",
+            "result": "pass"
+          },
+          {
+            "item": "count",
+            "result": "pass"
+          },
+          {
+            "item": "removedIds",
+            "result": "pass"
+          },
+          {
+            "item": "rangeAndFix",
+            "result": "pass"
+          },
+          {
+            "item": "severityLowered",
+            "result": "pass"
+          },
+          {
+            "item": "idsAndRecords",
+            "result": "pass"
+          },
+          {
+            "item": "text",
+            "result": "pass"
+          },
+          {
+            "item": "sources",
+            "result": "pass"
+          },
+          {
+            "item": "sha256",
+            "result": "pass"
+          }
+        ]
+      },
+      "excluded": {
+        "not_in_source": 237168,
+        "withdrawn": 1085,
+        "no_supported_package": 0,
+        "undecidable_range": 11,
+        "unsafe_text": 0,
+        "merged_by_alias": 7070
+      }
     }
   ],
   "maxCountResets": []
